@@ -1,0 +1,208 @@
+/*
+ * Estilos de tu proyecto
+ */
+ header{
+ 	width: 100%;
+ 	height: 1138px;
+ 	background-image:url(../assets/images/full.png);
+ 	background-repeat: no-repeat;
+ 
+ }
+
+ ul li a {
+	font-family:'Montserrat', sans-serif;
+	color: #FFF;
+	text-decoration: none;
+	text-transform: uppercase;
+	
+
+}
+
+ul li a:hover {
+	color: #FF00BF;
+}
+
+ul{
+	position: fixed;
+	list-style: none;
+	float: right;
+	margin-top: 45px;
+	margin-left: 628px;	
+}
+
+li{
+	font-size: 16px;
+	margin-left: 10px;
+	display: inline-block;
+	padding-left: 20px; 
+	text-align: center;
+
+}
+
+.logo {
+	width: 300px;
+	height: 100px;
+	background-image:url(../assets/images/logo-white.png);
+	background-repeat: no-repeat;
+	margin-left: 80px;
+	margin-top: 30px;
+	position: fixed;
+}
+
+ .cajablanca{
+ 	width: 456px;
+ 	height: 426px;
+ 	background-color: #fff;
+ 	margin-left: 794px;
+ 	float: left;
+ 	margin-top: -1020px;
+ 	text-align: center;
+ 	font-family: 'Montserrat', sans-serif;
+ }
+
+ .texminutes{
+ 	width:368px;
+ 	height:530px;
+ 	display: block;
+ 	color: #f3f3f5;
+ 	z-index: inherit;
+	margin-top:-550px;
+	margin-left: 100px;
+	font-family:'Montserrat', sans-serif;
+ }
+
+ .phone{
+ 	margin-top:-550px;
+	margin-left: 600px;
+	z-index: inherit;
+	width: 442px;
+	height: 492px;
+
+ }
+
+
+ section{
+ 	width: 100%;
+ 	height: 504px;
+ 
+ }
+
+ .cajatexto{
+ 	width: 456px;
+ 	height: 504px;
+ 	background-color: #fff;
+ 	float:left;
+ 	margin-top: -57px;
+ }
+
+.cajatexto3{
+ 	width: 456px;
+ 	height: 504px;
+ 	background-color: #fff;
+ 	float:left;
+ 
+ }
+
+ .tex{
+ 	width: 300px;
+ 	height: 200px;
+ 	padding: 90px;
+ 	font-family:'Montserrat', sans-serif;
+ }
+
+
+  .video{
+ 	width: 100%;
+ 	height: 504px;
+ 	background-color:black;
+
+ }
+ 
+  .video2 {
+ 	width:793px;
+ 	height:504px;
+ 	
+ 	float:left;
+ }
+
+ .cajatexto2 {
+ 	width: 456px;
+ 	height: 504px;
+ 	background-color:#fff;
+ 	float: left;
+ }
+
+ footer{
+ 	width: 100%;
+ 	height:541px;
+ 	background-color: #333447;
+ 	float: left;
+ }
+
+ .menufoo{
+ 	width: 150px;
+ 	height: 300px;
+ 	color: #fff;
+ 	z-index: auto;
+ 	margin-left: 150px;
+ 	float: left;
+ 	vertical-align: top;
+ 	margin-top: 60px;
+ }
+
+ .menufoo2{
+ 	width: 150px;
+ 	height: 300px;
+ 	color: #fff;
+ 	z-index: auto;
+ 	margin-left: 250px;
+ 	float: left;
+	vertical-align: top;
+	margin-top: -205px;
+ }
+
+ .menufoo3{
+ 	width: 150px;
+ 	height: 300px;
+ 	color: #fff;
+ 	z-index: auto;
+ 	margin-left: 250px;
+ 	float: left;
+ 	vertical-align: top;
+ 	margin-top: -205px;
+ }
+
+ .menufoo li {
+ 	color: #fff;
+ 	display: block;
+
+ }
+
+ a{
+ 	color: #f3f3f5;
+    text-decoration: none;
+    font-family:'Montserrat', sans-serif;
+    display: block;
+    padding: 10px;
+ }
+
+ a:hover{
+ 	color: #ff00bf;
+    text-decoration: none;
+ }
+
+ .text-snow {
+    color: #f3f3f5;
+}
+
+.menufoo4{
+ 	width: 150px;
+ 	height: 300px;
+ 	color: #fff;
+ 	z-index: auto;
+ 	margin-left: 250px;
+ 	float: left;
+ 	vertical-align: top;
+ 	margin-top: -205px;
+ }
+
